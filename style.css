@@ -1,0 +1,15 @@
+.entry-content .wp-block-codesista-event-block {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.entry-content .wp-block-codesista-event-block h2 {
+    font-size: 1.5rem;
+}
+
+.entry-content .wp-block-codesista-event-block h2::before {
+    display: none;
+}
